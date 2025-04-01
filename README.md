@@ -1,3 +1,3 @@
 # Latex
 
-![latex1](../imgs/latex1.jpg "latex1")
+![latex1](/imgs/latex1.png "latex1")
